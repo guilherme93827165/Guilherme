@@ -28,7 +28,7 @@ header {
 
 .profissao {
     background-image: linear-gradient(#7F27FF, #9F70FD);
-    color: white;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -77,3 +77,20 @@ body {
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
+.rodape{
+    background-color: rgb(85, 49, 203);
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    }
+
+    #robotica{
+        height: 140px;
+
+    }
+    #progamacao{
+        height: 140px;
+    }
+    #matematica{
+        height: 140px;
+    }
